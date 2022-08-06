@@ -1,0 +1,7 @@
+icrawler
+opencv-python
+scipy
+numpy
+matplotlib
+tensorflow
+scikit-learn
